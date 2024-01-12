@@ -1,0 +1,2 @@
+# DistilBERT_sentiment_classification
+使用DistilBERT进行微调继进行情感分类
